@@ -16,6 +16,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".ListRecipes"></activity>
+        <activity android:name=".AddYourOwnRecipe"></activity>
     </application>
 
 </manifest>
