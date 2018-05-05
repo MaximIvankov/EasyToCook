@@ -11,7 +11,7 @@ import android.widget.Toast;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class ListRecipes extends ListActivity implements AdapterView.OnItemLongClickListener {
+public class  ListRecipes extends ListActivity implements AdapterView.OnItemLongClickListener {
 
 
 

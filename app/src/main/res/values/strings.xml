@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">EasyToCook</string>
+    
+    //menu atribute
+    <string name="recipe_list">Список рецептов</string>
+    <string name="about_us">О нас</string>
+    <string name="last_recipe">Последние...</string>
+    //menu atribute
+    
+    
 </resources>

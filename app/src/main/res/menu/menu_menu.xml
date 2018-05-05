@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/recipe_list"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/recipe_list"/>
+
+    <item
+        android:id="@+id/last_recipe"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/last_recipe"/>
+
+    <item
+        android:id="@+id/about_us"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/about_us"/>
+</menu>
